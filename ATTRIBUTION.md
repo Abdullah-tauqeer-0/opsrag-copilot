@@ -1,0 +1,1 @@
+This project includes a seed corpus derived from public NIST materials, including the NIST AI RMF and GenAI Profile documents. The seed corpus is original, summarized wording meant for demonstration and evaluation. Please credit NIST as the original source for foundational content.
